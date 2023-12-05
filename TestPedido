@@ -1,0 +1,14 @@
+====================
+idPedido: 2
+Datos cliente:
+Nombre: Leonardo
+Direccion: Cra 59 22b 31
+====================
+Los items en el pedido son:
+--Corral $20000
+--Agua $3000
+====================
+Subtotal: 23000
+IVA (19%): 4370
+====================
+Total: 27370
